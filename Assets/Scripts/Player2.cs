@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+//test
 public class Player2 : MonoBehaviour
 {
     [SerializeField] float MoveSpeed = 1;
